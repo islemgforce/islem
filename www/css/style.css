@@ -1,0 +1,195 @@
+/* Empty. Add your own CSS if you like */
+.defaultListItem > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/jeda.jpg') no-repeat;
+    background-size: cover;
+	
+   
+}
+.defaultListItem1 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/riyadh.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem2 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/damem.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem3 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/makah.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem4 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/a7s.png') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem5 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/mdina.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem6 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/5abar.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem7 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/taf.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem8 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/tabouk.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem9 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/7aa.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem10 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/abb.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem11 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/3ass.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem12 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/katif.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem13 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/5amis.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem14 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/jawf.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem15 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/asir.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem16 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/jb.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem17 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/5arj.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem18 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/dhah.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem19 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/ba7a.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem20 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/raf.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem21 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/rabg.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem22 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/trif.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem23 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/5afj.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem24 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/qan.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem25 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/na3.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem26 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/nams.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem27 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/barq.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem28 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/barr.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem29 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/tanm.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem30 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/ras.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem31 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/char.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem32 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/ma7.jpg') no-repeat;
+    background-size: cover;
+   
+}
+.defaultListItem33 > .item-content  {
+    background: linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('../img/wadd.jpg') no-repeat;
+    background-size: cover;
+   
+}
+
+.overlay {
+  flex: 1;
+     padding: 20px;
+    background-color: #000000;
+    opacity: 0.5;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.mainText {
+	
+
+ padding: 30px;
+
+
+    font-size: 26px;
+   
+    color: #FFFFFF;
+}
+
