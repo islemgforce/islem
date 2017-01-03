@@ -172,7 +172,7 @@
 }
 
 .overlay {
-  flex: 1;
+ margin:80px 0px -40px 0px;
      padding: 20px;
     background-color: #000000;
     opacity: 0.5;
@@ -184,12 +184,18 @@
 
 .mainText {
 	
+margin:130px 0px -14px -20px;
+width:165%;
 
- padding: 30px;
 
-
-    font-size: 26px;
+	 background-color: #000000;
+    opacity: 0.7;
+	background-attachment: fixed;
+    font-size: 23px;
    
     color: #FFFFFF;
+	text-decoration:none;
+	
+	
 }
 
